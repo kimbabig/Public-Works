@@ -7,5 +7,5 @@
 │   ├── train.csv
 ├── 02-Results
 │   ├── FS
-    └──  LSTM
+    └── LSTM
 ```
