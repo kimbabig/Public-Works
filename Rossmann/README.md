@@ -1,5 +1,5 @@
 # Extra folders
-
+```
 ├── 01-Data
 │   ├── Rossmann_treated.csv
 │   ├── store.csv
@@ -8,3 +8,4 @@
 ├── 02-Results
 │   ├── FS
 │   └──  LSTM
+```
