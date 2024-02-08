@@ -1,4 +1,4 @@
-# Extra Local Data
+# Extra Local Extructure
 ```
 ├── 01-Data
 │   ├── Rossmann_treated.csv
